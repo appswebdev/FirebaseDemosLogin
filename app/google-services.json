@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "633968711836",
+    "firebase_url": "https://firestarter-51e49.firebaseio.com",
+    "project_id": "firestarter-51e49",
+    "storage_bucket": "firestarter-51e49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633968711836:android:4e043bc6b916d1a7",
+        "android_client_info": {
+          "package_name": "college.edu.tomer.firebasedemoslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633968711836-lsj4oq8h6qvt0r8c9aget4but6urvooc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "college.edu.tomer.firebasedemoslogin",
+            "certificate_hash": "6E7EDF87F3D8AEA388F87BCE41F27F7D2F1123EF"
+          }
+        },
+        {
+          "client_id": "633968711836-sb0h4uphe9ebp0611qjepi4jh0s6okti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAf3sAUG3SkvDxMgrmMbv7QB8Ue5VCjW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633968711836-sb0h4uphe9ebp0611qjepi4jh0s6okti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
